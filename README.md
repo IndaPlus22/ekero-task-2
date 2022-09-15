@@ -1,1 +1,1 @@
-        1 file(s) copied.
+Note: The two chosen problems are "Avstånd till kanten" and "Summera tal"
