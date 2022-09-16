@@ -1,6 +1,3 @@
-//use std::io;
-//use std::io::prelude::*;
-//use std::char;
 use std::str::Split;
 fn main() {
     let mut given_numbers: Vec<u32> = Vec::new(); 
